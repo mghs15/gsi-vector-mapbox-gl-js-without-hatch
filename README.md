@@ -1,5 +1,5 @@
 # gsi-vector-mapbox-gl-js-without-hatch
-地理院地図のベクトルタイルをMapbox GL JSで表示するサンプル（fill-patternによるhatcj表現を利用しない）
+地理院地図のベクトルタイルをMapbox GL JSで表示するサンプル（fill-patternによるhatch表現を利用しない）
 
 - [標準地図](https://mghs15.github.io/gsi-vector-mapbox-gl-js-without-hatch/std.html#14.01/35.44575/139.9552)
 - [単色地図](https://mghs15.github.io/gsi-vector-mapbox-gl-js-without-hatch/pale.html#14.01/35.44575/139.9552)

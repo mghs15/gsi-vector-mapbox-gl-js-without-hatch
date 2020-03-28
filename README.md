@@ -10,6 +10,7 @@ fill-patternによるハッチ表現をfill-colorによる塗りつぶし表現�
 
 `style-fillpattern-replace.pl`は、fill-patternの設定を、対応するfill-colorの設定に置き換えるPerl製ツール（変換表を兼ねる）です。
 
+
 配列データを読み込んで表示するVer.は[こちら](https://github.com/mghs15/gsi-vector-mapbox-gl-js)。
 PNG画像を読み込んで表示するVer.は[こちら](https://github.com/mghs15/gsi-vector-mapbox-gl-js-png)。
 
